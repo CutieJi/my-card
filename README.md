@@ -25,8 +25,6 @@
 <br>
 <img src="https://raw.githubusercontent.com/MiyagawaMizu/Discord-Status/main/status/offline.svg" width="17"></img> - **Offline / Insivible**
 
-<img src="https://github.com/MiyagawaMizu/Discord-Status/raw/main/preview.gif" alt="Preview of Discord-Status" width="100%" height="100%">
-
 ## Stuff I used to make this
  - Source code of this website is form [Domin-MND](https://github.com/Domin-MND/profile-card/tree/classic) (I just edit it).
  - To make realtime Discord Status, I used [Landyard API](https://github.com/Phineas/lanyard) by [Phineas](https://github.com/Phineas).
