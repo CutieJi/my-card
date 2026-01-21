@@ -24,11 +24,6 @@
 <img src="https://raw.githubusercontent.com/MiyagawaMizu/Discord-Status/main/status/streaming.svg" width="17"></img> - **Streaming**
 <br>
 <img src="https://raw.githubusercontent.com/MiyagawaMizu/Discord-Status/main/status/offline.svg" width="17"></img> - **Offline / Insivible**
-
-## Stuff I used to make this
- - Source code of this website is form [Domin-MND](https://github.com/Domin-MND/profile-card/tree/classic) (I just edit it).
- - To make realtime Discord Status, I used [Landyard API](https://github.com/Phineas/lanyard) by [Phineas](https://github.com/Phineas).
- - For realtime banner update, I used [Mesavirep's Discord API](https://mesavirep.xyz/).
   
 ## ⚙️ How to use
 1. Fork this repository
